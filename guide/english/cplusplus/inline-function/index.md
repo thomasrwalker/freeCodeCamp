@@ -77,4 +77,4 @@ int main(){
 * C++ inlining is resolved at compile time. Which means if you change the code of the inlined function,
 you would need to recompile all the code using it to make sure it will be updated.
 * As mentioned above it increases the executable size, which may cause thrashing in memory. 
-More number of page fault, bringing down your program performance.
+A greater number of page faults leads to reduced program performance.

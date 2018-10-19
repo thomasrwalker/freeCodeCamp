@@ -1,6 +1,8 @@
 ---
-title:While-loop
+title: While-loop
 ---
+
+## While-loop
 
 A while loop statement repeatedly executes a target statement as long as a given condition is true.
 
